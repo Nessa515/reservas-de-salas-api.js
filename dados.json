@@ -1,0 +1,24 @@
+{
+  "reservas": [
+    {
+      "id": "1",
+      "sala": "Informática 1"
+    },
+    {
+      "id": "2",
+      "sala": "Informática 4"
+    },
+    {
+      "id": "3",
+      "sala": "Geografia 1"
+    },
+    {
+      "id": "4",
+      "sala": "História 1"
+    },
+    {
+      "id": "af8a",
+      "sala": "Matemática 2"
+    }
+  ]
+}
