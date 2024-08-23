@@ -19,6 +19,13 @@
     {
       "id": "af8a",
       "sala": "Matemática 2"
+    },
+    {
+      "id": "235e",
+      "atividade": "Informática",
+      "sala": "1",
+      "dataInicial": "2024-08-09T01:53:00.000Z",
+      "dataFinal": "2024-08-09T01:53:00.000Z"
     }
   ]
 }
